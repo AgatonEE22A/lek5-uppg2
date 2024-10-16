@@ -1,0 +1,88 @@
+.topp {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center;
+    border: solid red;
+    border-radius: 11px;
+    margin: 5px;
+}
+.topp img{
+    max-width: 101px;
+    align-items: center;
+    border: solid black;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 0 100px;
+    
+}
+h1{
+    text-align: center;
+}
+.stortop{
+    background-image: url('snow_winter_trees.jpg');
+    min-height: 303px;
+    background-size: cover;
+    border: solid red;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+.stortop img{
+    max-height: 155px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+h2{
+    text-align: center;
+}
+.under{
+    display: flex;
+    flex-direction: row;
+    border:solid red;
+    border-radius: 10px;
+    padding: 5px;
+}
+.vänster{
+    max-width: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    border: solid red;
+    border-radius: 10px;
+    min-height: 500px;
+    text-align: center;
+    margin-right: 10px;
+}
+.vänster img{
+    max-width: 100px;
+    border: solid black;
+    border-radius: 10px;
+}
+.center{
+ max-width: 85%; 
+ border: solid red;
+ border-radius: 10px;
+ padding-left: 5px;
+    
+}
+.höger{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: solid red;
+    border-radius: 10px;
+    margin-left: 14px;
+}
+.höger img{
+    max-width: 50px;
+    height: 100%;
+}
+.storunder{
+    text-align: center;
+    border: solid red;
+    border-radius: 10px;
+    margin-top: 5px;
+}
